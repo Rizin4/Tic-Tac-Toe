@@ -10,7 +10,7 @@ A premium, dark-themed Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
 - **Score Tracking**: Keeps track of wins and draws.
 
 ## Live Demo
-[tic-tac-toe](https://rz-tictactoe.netlify.app/)
+<a href="https://rz-tictactoe.netlify.app/" target="_blank" rel="noopener noreferrer">tic-tac-toe</a>
 
 ## How to Play
 1. Click on any empty cell to place your 'X'.
